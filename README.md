@@ -14,4 +14,4 @@ git clone https://github.com/alennardos/projet_pros_sys_A3_23-26.git
 Then simply open the file 'EasySave.sln' with Visual Studio and compile the project.
 
 _________________________
-Project by Adam, Alen, Antoine.
+Project by Adam, Alen, Antoine, for CESI Engineering school.
